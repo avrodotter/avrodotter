@@ -18,7 +18,6 @@
 
 - ✅ 1000+ Notion users using my templates
 - ✅ Grad **Buildspace nights&weekends season 5**
-- ✅ Attended TEDx, Foundr Summit, and productivity workshops by Ali Abdaal
 
 ---
 
