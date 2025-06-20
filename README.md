@@ -1,7 +1,6 @@
 # 👋 Hello World, I'm Soumyajit
 I love building cool stuff 
 
----
 
 ## 🚀 What I’m Working On
 
@@ -9,22 +8,12 @@ I love building cool stuff
 - 🗓️ **A Global Productivity App** – Using Next.js + i18n + timezones
 - 🧰 More on the way… stay tuned!
 
----
 
 ## 🌟 Achievements
 
 - ✅ 1200+ Notion users using my templates
 - ✅ **Buildspace nights&weekends season 5** Graduate
 
----
-
-## 💬 Find me here
-
-- 🔗 YouTube channel: [Avro The Wizard](https://www.youtube.com/@avrothewizard)
-- 🔗 LinkedIn: [Soumyajit Dutta](https://linkedin.com/in/thesoumyajitdutta)
-- 🔗 Notion: [@avrothewizard](https://www.notion.com/@avrothewizard)
-
----
 
 ## 📫 Tech Stack
 
