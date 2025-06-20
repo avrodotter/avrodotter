@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Soumyajit
 🎯 I love building cool stuff 
 📍 Based in India
-🔧 Languages: C | C++ | JavaScript | TypeScript | Python | MATLAB
-🎨 Tools: Notion | Figma  | React | Next.js | Tailwind CSS | Git | Firebase Studio
 
 ---
 
@@ -17,7 +15,7 @@
 ## 🌟 Achievements
 
 - ✅ 1000+ Notion users using my templates
-- ✅ Grad **Buildspace nights&weekends season 5**
+- ✅ **Buildspace nights&weekends season 5** Graduate
 
 ---
 
