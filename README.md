@@ -25,7 +25,7 @@
 ## 💬 Find me here
 
 - 🔗 YouTube channel: [Avro The Wizard](https://www.youtube.com/@avrothewizard)
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/thesoumyajitdutta)
+- 🔗 LinkedIn: [Soumyajit Dutta](https://linkedin.com/in/thesoumyajitdutta)
 - 🔗 Notion: [@avrothewizard](https://www.notion.com/@avrothewizard)
 
 ---
