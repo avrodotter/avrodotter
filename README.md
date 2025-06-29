@@ -5,9 +5,10 @@ I love building cool stuff
 
 ## 🚀 What I’m Working On
 
-- 🧠 **Super-Journal** – A journal inside Notion integrating various parameters of life
-- 🗓️ **A Global Productivity App** – Using Next.js + i18n + timezones
-- 🧰 More on the way… stay tuned!
+- **Level Journal** – A journal inside Notion integrating various parameters of life
+- **MindQuest** – A totally different meditation app to solve my own problem with meditation
+- **Content Warehouse** - A system built with Notion for content creators to keep every process organized
+- More on the way… stay tuned!
 
 
 
