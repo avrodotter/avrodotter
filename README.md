@@ -15,7 +15,7 @@ I love building cool stuff
 ## 🌟 Achievements
 
 - 1200+ Notion users using my templates
-- **Buildspace nights&weekends season 5** Graduate
+- **Buildspace n&w season 5** Graduate
 
 
 
