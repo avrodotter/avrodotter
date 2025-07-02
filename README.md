@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Soumyajit
+## Hello World, I'm Soumyajit
 I love building cool stuff 
 
 ## Tech Stack
