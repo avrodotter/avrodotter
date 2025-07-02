@@ -1,25 +1,7 @@
 # 👋 Hello World, I'm Soumyajit
 I love building cool stuff 
 
-
-
-## 🚀 What I’m Working On
-
-- **Level Journal** – A journal inside Notion integrating various parameters of life
-- **MindQuest** – A totally different meditation app to solve my own problem with meditation
-- **Content Warehouse** - A system built with Notion for content creators to keep every process organized
-- More on the way… stay tuned!
-
-
-
-## 🌟 Achievements
-
-- 1200+ Notion users using my templates
-- **Buildspace n&w season 5** Graduate
-
-
-
-## 📫 Tech Stack
+## Tech Stack
 #### Programming Languages
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=Mathworks)
 #### Web Development
