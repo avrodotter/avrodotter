@@ -2,7 +2,6 @@ Hello World, I'm Soumyajit.
 The internet calls me Avro.
 I love building cool stuff. 
 
-### 📫 So here is my tech stack
 ##### Languages & Frameworks
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=Mathworks) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
 
