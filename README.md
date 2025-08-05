@@ -1,4 +1,4 @@
-Hello World, I'm Soumyajit.
+Hello World.
 The internet calls me Avro.
 I love building cool stuff. 
 
