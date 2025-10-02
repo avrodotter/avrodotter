@@ -1,5 +1,5 @@
 Hello World.
-The internet calls me Avro.
+My name is Avro.
 I love building cool stuff. 
 
 ##### Languages & Frameworks
