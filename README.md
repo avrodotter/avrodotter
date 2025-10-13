@@ -1,5 +1,5 @@
 Hello World.
-I am Avro (˶ᵔ ᵕ ᵔ˶)
+I am Avro (˶ᵔ ᵕ ᵔ˶).
 I love building cool stuff. 
 
 ##### Languages & Frameworks
