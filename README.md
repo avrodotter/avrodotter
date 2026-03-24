@@ -1,10 +1,8 @@
 Hello World.
 I am Avro (˶ᵔ ᵕ ᵔ˶).
 
-👾Inventing new ways of doing things 
-⚔️ Solo leveling with Notion templates 
-🧑🏻‍💻Still learning to code 
-🐶 Following my heart & intuition
+I build Notion workflows and AI systems while exploring the intersection of CS, Art & Music
+Inventing new ways of doing things following my heart & intuition
 
 ##### Languages & Frameworks
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=Mathworks) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
