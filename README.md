@@ -1,5 +1,4 @@
-##### Hello World.
-##### I am Avro (˶ᵔ ᵕ ᵔ˶).
+##### Hello World, I am Avro.
 
 ##### Design Engineering + Notion + AI Workflows
 ##### Exploring the intersection of CS, Art & Music
