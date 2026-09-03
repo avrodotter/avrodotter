@@ -1,5 +1,5 @@
 # hii, i am avro!
 
-exploring the possibilities across art & technology
+exploring and shipping projects across art & technology
 
 
